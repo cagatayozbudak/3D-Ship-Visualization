@@ -10,13 +10,11 @@ You can move the camera with your mouse or your face.
 
 You need Python 3 and these Python libraries:
 
-- `numpy`
-- `opencv-python`
-- `trimesh`
+- numpy
+- opencv-python
+- trimesh
 
-
-```markdown
 To install them:
 
-```bash
+bash
 pip install numpy opencv-python trimesh
