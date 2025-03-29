@@ -1,2 +1,20 @@
-# 3D-Ship-Visualization
-This project shows 3 different ship simulations in 3D. One ship is drawn with code, another uses face tracking, and the last one loads a 3D model. You can move the camera with your mouse or face. It is made with Python, OpenCV, and Trimesh.
+# 3D Ship Visualization
+
+This project has 3 different 3D ship simulations.  
+Each one uses Python and OpenCV.  
+You can move the camera with your mouse or your face.
+
+---
+
+## 🛠 Requirements
+
+You need Python 3 and these Python libraries:
+
+- `numpy`
+- `opencv-python`
+- `trimesh`
+
+To install them:
+
+```bash
+pip install numpy opencv-python trimesh
