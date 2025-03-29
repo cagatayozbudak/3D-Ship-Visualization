@@ -21,6 +21,7 @@ Make sure it's in the same folder as the code.
 This project creates a 3D ship using only code (NumPy arrays). You can move the camera using the mouse. It runs in a window with a simple 3D scene.
 
 Controls:
+
 🖱 Left click + drag mouse → move forward/backward, left/right
 
 🖱 Right click + drag mouse → move up/down
@@ -30,6 +31,7 @@ Controls:
 This project adds face tracking using your webcam. When your face moves, the camera also moves. You don't need to click anything — just use your face!
 
 Controls (Face):
+
 Move face left/right → camera moves left/right
 
 👈👉 Move face up/down → camera moves up/down
@@ -43,6 +45,7 @@ Move face left/right → camera moves left/right
 This project loads a real 3D model from a .obj file. It shows the ship with lighting and perspective. You can move and rotate the camera using your mouse.
 
 Controls:
+
 🖱 Left click + drag → move camera (pan)
 
 🖱 Right click + drag → rotate view (orbit)
