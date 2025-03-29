@@ -9,11 +9,8 @@ opencv-python → for drawing and webcam
 trimesh → only for the 3rd project (to load a 3D model)
 
 To install them:
-
-nginx
-Copy
-Edit
 pip install numpy opencv-python trimesh
+
 Also, the third project needs a 3D model file: ship.obj
 Make sure it's in the same folder as the code.
 
