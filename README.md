@@ -16,5 +16,5 @@ You need Python 3 and these Python libraries:
 
 To install them:
 
-bash
+```bash
 pip install numpy opencv-python trimesh
