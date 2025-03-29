@@ -15,6 +15,7 @@ Also, the third project needs a 3D model file: ship.obj
 Make sure it's in the same folder as the code.
 
 ▶️ How to Run Each Project
+
 1️⃣ Basic 3D Ship (Mouse Control)
 This project creates a 3D ship using only code (NumPy arrays).
 
