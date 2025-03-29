@@ -18,17 +18,3 @@ To install them:
 
 ```bash
 pip install numpy opencv-python trimesh
-
-Project 1 – Basic 3D Ship (with Mouse)
-This project shows a simple 3D ship made with code.
-You can move the camera using the mouse.
-
-▶️ How to run:
-bash
-Copy
-Edit
-python project1_mouse_ship.py
-💻 Controls:
-Left click + move mouse: Move forward/backward and left/right
-
-Right click + move mouse: Move up/down
