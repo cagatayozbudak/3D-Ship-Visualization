@@ -18,9 +18,9 @@ To install them:
 
 ```bash
 pip install numpy opencv-python trimesh
+```bash
 
-
-Project 1 – Basic 3D Ship (with Mouse)
+📁 Project 1 – Basic 3D Ship (with Mouse)
 This project shows a simple 3D ship made with code.
 You can move the camera using the mouse.
 
